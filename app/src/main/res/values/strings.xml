@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Todo list</string>
+    <string name="label_newTask">Criar Tarefa</string>
+    <string name="label_titleTask">TÍTULO</string>
+    <string name="label_descriptionTask">DESCRIÇÃO</string>
+    <string name="label_dateTask">DATA</string>
+    <string name="label_timeTask">HORA</string>
+    <string name="label_createTask">Criar Tarefa</string>
+    <string name="label_cancelTask">Cancelar</string>
+    <string name="label_title_home">Tarefas</string>
+    <string name="label_button_new">NOVA TAREFA</string>
+    <string name="label_edit_edit">EDITAR</string>
+    <string name="label_edit_delete">DELETAR</string>
+    <string name="label_no_task">EBA!! Você não tem\nnenhuma tarefa!</string>
+</resources>
